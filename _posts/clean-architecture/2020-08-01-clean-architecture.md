@@ -14,7 +14,7 @@ tags:
 剛好在Github上又看到有高手把這個架構實作出來，所以就試著把手邊的專案改成Clean Architecture的架構。
 
 ## 先說說Clean Architecture
-![CleanArchitecture](../_site/img/in-post/clean-architecture/CleanArchitecture.jpg)
+![CleanArchitecture](../../_site/img/in-post/clean-architecture/CleanArchitecture.jpg)
 Clean Architecture跟其他的架構(如常見的n-layers、六角架構等...)，都有著相同的目標，那就是關注點分離。
 這些架構透過將軟體分層來實現這種分離，而Clean Architecture的分離概念就體現在上面那張同心圓的圖上。
 ### 分層
