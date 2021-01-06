@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET Core學前惡補篇 - 依賴注入（三）"
+title: "ASP.NET Core - 依賴注入（三）"
 subtitle: 'IoC容器'
 author: "Gulu"
 header-style: text

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET Core學前惡補篇 - 依賴注入（二）"
+title: "ASP.NET Core - 依賴注入（二）"
 subtitle: '控制反轉 & 依賴注入'
 author: "Gulu"
 header-style: text
